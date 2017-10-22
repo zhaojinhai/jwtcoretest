@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTConsole", "JWTConsole\JWTConsole.csproj", "{36104748-1CB2-4B19-B14C-3AC362791EE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtWeb", "JwtWeb\JwtWeb.csproj", "{BC138B44-EB54-4507-99C5-B79A3F8B8B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreTest1", "CoreTest1\CoreTest1.csproj", "{C32259CD-D0B3-44A5-B8D6-E59E1A612E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36104748-1CB2-4B19-B14C-3AC362791EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36104748-1CB2-4B19-B14C-3AC362791EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36104748-1CB2-4B19-B14C-3AC362791EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36104748-1CB2-4B19-B14C-3AC362791EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC138B44-EB54-4507-99C5-B79A3F8B8B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC138B44-EB54-4507-99C5-B79A3F8B8B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC138B44-EB54-4507-99C5-B79A3F8B8B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC138B44-EB54-4507-99C5-B79A3F8B8B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32259CD-D0B3-44A5-B8D6-E59E1A612E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32259CD-D0B3-44A5-B8D6-E59E1A612E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32259CD-D0B3-44A5-B8D6-E59E1A612E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32259CD-D0B3-44A5-B8D6-E59E1A612E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2469DBB-235F-4E31-9235-E37A2D9B155B}
+	EndGlobalSection
+EndGlobal

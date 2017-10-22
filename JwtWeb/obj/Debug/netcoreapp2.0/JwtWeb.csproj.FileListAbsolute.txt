@@ -1,0 +1,11 @@
+D:\Code\Csharp\JWTTest\JwtWeb\bin\Debug\netcoreapp2.0\JwtWeb.deps.json
+D:\Code\Csharp\JWTTest\JwtWeb\bin\Debug\netcoreapp2.0\JwtWeb.runtimeconfig.json
+D:\Code\Csharp\JWTTest\JwtWeb\bin\Debug\netcoreapp2.0\JwtWeb.runtimeconfig.dev.json
+D:\Code\Csharp\JWTTest\JwtWeb\bin\Debug\netcoreapp2.0\JwtWeb.dll
+D:\Code\Csharp\JWTTest\JwtWeb\obj\Debug\netcoreapp2.0\JwtWeb.csprojResolveAssemblyReference.cache
+D:\Code\Csharp\JWTTest\JwtWeb\obj\Debug\netcoreapp2.0\JwtWeb.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\JWTTest\JwtWeb\obj\Debug\netcoreapp2.0\JwtWeb.AssemblyInfoInputs.cache
+D:\Code\Csharp\JWTTest\JwtWeb\obj\Debug\netcoreapp2.0\JwtWeb.AssemblyInfo.cs
+D:\Code\Csharp\JWTTest\JwtWeb\bin\Debug\netcoreapp2.0\JwtWeb.pdb
+D:\Code\Csharp\JWTTest\JwtWeb\obj\Debug\netcoreapp2.0\JwtWeb.dll
+D:\Code\Csharp\JWTTest\JwtWeb\obj\Debug\netcoreapp2.0\JwtWeb.pdb

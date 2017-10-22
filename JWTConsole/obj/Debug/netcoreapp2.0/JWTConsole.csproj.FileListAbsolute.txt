@@ -1,0 +1,11 @@
+D:\Code\Csharp\JWTTest\JWTConsole\bin\Debug\netcoreapp2.0\JWTConsole.deps.json
+D:\Code\Csharp\JWTTest\JWTConsole\bin\Debug\netcoreapp2.0\JWTConsole.runtimeconfig.json
+D:\Code\Csharp\JWTTest\JWTConsole\bin\Debug\netcoreapp2.0\JWTConsole.runtimeconfig.dev.json
+D:\Code\Csharp\JWTTest\JWTConsole\bin\Debug\netcoreapp2.0\JWTConsole.dll
+D:\Code\Csharp\JWTTest\JWTConsole\obj\Debug\netcoreapp2.0\JWTConsole.csprojResolveAssemblyReference.cache
+D:\Code\Csharp\JWTTest\JWTConsole\obj\Debug\netcoreapp2.0\JWTConsole.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\JWTTest\JWTConsole\obj\Debug\netcoreapp2.0\JWTConsole.AssemblyInfoInputs.cache
+D:\Code\Csharp\JWTTest\JWTConsole\obj\Debug\netcoreapp2.0\JWTConsole.AssemblyInfo.cs
+D:\Code\Csharp\JWTTest\JWTConsole\bin\Debug\netcoreapp2.0\JWTConsole.pdb
+D:\Code\Csharp\JWTTest\JWTConsole\obj\Debug\netcoreapp2.0\JWTConsole.dll
+D:\Code\Csharp\JWTTest\JWTConsole\obj\Debug\netcoreapp2.0\JWTConsole.pdb
